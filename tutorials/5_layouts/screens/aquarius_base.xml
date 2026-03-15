@@ -1,0 +1,8 @@
+<!-- This screen contains many nested layouts.
+     By pressing Ctrl or Cmd you can visualize the bounding box of the UI elements -->
+<screen>
+	<view flex_flow="column" style_pad_all="0" scrollbar_mode="off" style_pad_row="0">
+		<row height="50" width="100%" style_bg_color="#E1D5E7" style_pad_all="0" style_margin_all="0" />
+		<row height="190" width="100%" style_bg_color="#ffffff" style_pad_all="0" style_margin_all="0" />
+	</view>
+</screen>
